@@ -10,7 +10,6 @@ function solution(babbling) {
         ele = ele.replaceAll(vowel, ' ');
       }
     }
-    console.log(ele);
     return ele.replaceAll(' ', '').length ? acc : acc + 1;
   }, 0);
 }
