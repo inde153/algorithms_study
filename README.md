@@ -25,4 +25,8 @@
 | 19   | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)     | 2      | [풀이 링크](https://github.com/inde153/algorithms_study/tree/main/solutions/questions19) | Programmers |
 | 20   | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)         | 3      | [풀이 링크](https://github.com/inde153/algorithms_study/tree/main/solutions/questions14) | Programmers |
 | 21   | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)            | 3      | [풀이 링크](https://github.com/inde153/algorithms_study/tree/main/solutions/questions22) | Programmers |
+<<<<<<< HEAD
 | 22   | [실습용 로봇]()                                                                           | PCCP   | [풀이 링크](https://github.com/inde153/algorithms_study/tree/main/solutions/questions17) | Programmers |
+=======
+| 21   | [실습용 로봇]()                                                                           | PCCP   | [풀이 링크](https://github.com/inde153/algorithms_study/tree/main/solutions/questions17) | Programmers |
+>>>>>>> 795ba508d21d873a2501b7e9724f2d83fac2649f
