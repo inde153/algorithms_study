@@ -26,4 +26,4 @@
 | 20   | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)         | 3      | [풀이 링크](https://github.com/inde153/algorithms_study/tree/main/solutions/questions14) | Programmers |
 | 21   | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)            | 3      | [풀이 링크](https://github.com/inde153/algorithms_study/tree/main/solutions/questions22) | Programmers |
 | 22   | [실습용 로봇]()                                                                           | PCCP   | [풀이 링크](https://github.com/inde153/algorithms_study/tree/main/solutions/questions17) | Programmers |
-| 23   | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)    | 1      | [풀이 링크](https://github.com/inde153/algorithms_study/tree/main/solutions/questions17) | Programmers |
+| 23   | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)    | 1      | [풀이 링크](https://github.com/inde153/algorithms_study/tree/main/solutions/questions23) | Programmers |
